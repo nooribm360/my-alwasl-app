@@ -1,0 +1,4 @@
+applications:
+    - name: al-wasl
+      path: .
+      buildpack: staticfile_buildpack
